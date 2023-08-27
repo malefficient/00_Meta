@@ -1,4 +1,5 @@
-This is what lets you use those nice callouts that are (almost) univserally seen today amongst obsidian vaults.
+# Admonition
+[[Admonition]] is what lets you use those nice callouts that are (almost) univserally seen today amongst obsidian vaults.
 
 ## Admonition Examples
 ```
